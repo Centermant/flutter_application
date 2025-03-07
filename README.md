@@ -1,5 +1,6 @@
- Студент: Лещенко Андрей Николаевич; Группа ИТ2203
- # flutter_app
+ Студент: Лещенко Андрей Николаевич
+ Группа ИТ2203
+ # Development of applications for mobile devices
  This repository will include completed laboratory work in the discipline Mobile Application Development
  
  Description of the programs (laboratory works):
